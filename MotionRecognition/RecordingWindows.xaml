@@ -1,0 +1,13 @@
+﻿<Window x:Class="MotionRecognition.RecordingWindows"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RecordingWindows" Height="424" Width="512" Closing="MainWindow_Closing" Loaded="MainWindow_Loaded">
+    <Grid>
+        <Image Source="{Binding ImageSource}" Grid.ColumnSpan="2"/>
+        <Image Grid.Column="0" Name="RecodingIcon" Source="image/01.png" Width="60" Height="60" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,30,0,0"/>
+
+        <Button Content="離開" HorizontalAlignment="Left" VerticalAlignment="Top" Click="BackButton_Click"/>
+        <Button Content="開始錄製" Height="60" Width="100" FontSize="20" Name="RecodingButton" Click="RecodingButton_Click" HorizontalAlignment="Right" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label Name="LB" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>

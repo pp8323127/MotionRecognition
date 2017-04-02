@@ -1,0 +1,19 @@
+﻿<Window x:Class="MotionRecognition.RealTimeIdentifyAction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Closing="Window_Closing"
+        Title="IdentifyAction" Height="700" Width="1300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Image Grid.Column="0" Source="{Binding ImageSource}" Width="960" Height="540" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+        <Canvas Grid.Column="0" Name="Bodycanvas" Width="960" Height="540" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+
+        <Label Grid.Column="1" Name="LB2" Content="目前動作" FontSize="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,400"/>
+        <Label Grid.Column="1" Name="LB3" FontSize="50" Width="100" Height="100" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="Red"/>
+        <ScrollViewer Grid.Column="1" >
+        <Label Name="LB" HorizontalAlignment="Center" FontSize="40" VerticalAlignment="Center" Margin="0,0,0,0"/>
+        </ScrollViewer>
+    </Grid>
+</Window>

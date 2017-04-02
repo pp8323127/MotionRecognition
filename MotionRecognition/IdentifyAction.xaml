@@ -1,0 +1,19 @@
+﻿<Window x:Class="MotionRecognition.IdentifyAction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="IdentifyAction" Height="768" Width="1366">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Image Grid.Column="0" Name="image" Width="1092" Height="614"/>
+        <Image Grid.Column="0" Name="RecodingIcon" Source="image/01.png" Width="90" Height="90" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,90,90,0"/>
+        <Canvas Grid.Column="0" Name="bodyCanvas" Width="1092" Height="614"/>
+        <Button Grid.Column="0" Name="RecordingBT" Content="錄動作" FontSize="50" Width="250" Height="90" Click="RecordingBT_Click" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+        <Button Grid.Column="0" Content="返回" Click="BackButton_Click"  Width="80" Height="50" FontSize="25" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBlock Grid.Column="1" FontSize="80" Name="TimeTB" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+        <TextBlock Grid.Column="1" Text="" Name="ResultTB" FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Window>

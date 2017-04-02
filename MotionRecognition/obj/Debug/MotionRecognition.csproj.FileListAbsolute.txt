@@ -1,0 +1,17 @@
+c:\users\jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\bin\Debug\MotionRecognition.exe.config
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\bin\Debug\MotionRecognition.exe
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\bin\Debug\MotionRecognition.pdb
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\Debug\MotionRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\Debug\MainWindow.baml
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\Debug\RecodeWindows.baml
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\Debug\MainWindow.g.cs
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\Debug\RecodeWindows.g.cs
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\Debug\App.g.cs
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\Debug\MotionRecognition_MarkupCompile.cache
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\Debug\MotionRecognition.g.resources
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\Debug\MotionRecognition.Properties.Resources.resources
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\Debug\MotionRecognition.csproj.GenerateResource.Cache
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\Debug\MotionRecognition.exe
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\Debug\MotionRecognition.pdb

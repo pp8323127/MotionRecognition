@@ -1,0 +1,257 @@
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.pdb
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.baml
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\App.g.cs
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition_MarkupCompile.cache
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.g.resources
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.Properties.Resources.resources
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csproj.GenerateResource.Cache
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.baml
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.baml
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.g.cs
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.g.cs
+E:\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+E:\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe
+E:\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.pdb
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csprojResolveAssemblyReference.cache
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.baml
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.baml
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.baml
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.g.cs
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.g.cs
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.g.cs
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\App.g.cs
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition_MarkupCompile.cache
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.g.resources
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.Properties.Resources.resources
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csproj.GenerateResource.Cache
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.baml
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.g.cs
+I:\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csprojResolveAssemblyReference.cache
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.baml
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.baml
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.baml
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.baml
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.baml
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.g.cs
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.g.cs
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.g.cs
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.g.cs
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.g.cs
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\App.g.cs
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition_MarkupCompile.cache
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.g.resources
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.Properties.Resources.resources
+I:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csproj.GenerateResource.Cache
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.baml
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.baml
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.g.cs
+C:\Users\Jacky\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.g.cs
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.pdb
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csprojResolveAssemblyReference.cache
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.baml
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.baml
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.baml
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.baml
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.baml
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.g.cs
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.g.cs
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.g.cs
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.g.cs
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.g.cs
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\App.g.cs
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition_MarkupCompile.cache
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.g.resources
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.Properties.Resources.resources
+C:\Users\E508-PC\Documents\Visual Studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csproj.GenerateResource.Cache
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.baml
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.g.cs
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\Pretreatment.baml
+C:\Users\Jacky\documents\visual studio 2013\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\Pretreatment.g.cs
+G:\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+G:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+G:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+H:\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+C:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+C:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+C:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+F:\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+F:\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe
+F:\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.pdb
+F:\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.dll
+F:\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.xml
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csprojResolveAssemblyReference.cache
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.baml
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\Pretreatment.baml
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.baml
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.baml
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.baml
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.baml
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.baml
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.g.cs
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\Pretreatment.g.cs
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.g.cs
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.g.cs
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.g.cs
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.g.cs
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.g.cs
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\App.g.cs
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition_MarkupCompile.cache
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.g.resources
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.Properties.Resources.resources
+F:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csproj.GenerateResource.Cache
+H:\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe
+H:\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.pdb
+H:\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.dll
+H:\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.xml
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csprojResolveAssemblyReference.cache
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.baml
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\Pretreatment.baml
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.baml
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.baml
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.baml
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.baml
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.baml
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.g.cs
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\Pretreatment.g.cs
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.g.cs
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.g.cs
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.g.cs
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.g.cs
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.g.cs
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\App.g.cs
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition_MarkupCompile.cache
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.g.resources
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.Properties.Resources.resources
+H:\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csproj.GenerateResource.Cache
+E:\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.dll
+E:\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.xml
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.baml
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\Pretreatment.baml
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.baml
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.g.cs
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\Pretreatment.g.cs
+E:\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.g.cs
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.pdb
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.dll
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.xml
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csprojResolveAssemblyReference.cache
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.baml
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\Pretreatment.baml
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.baml
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.baml
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.baml
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.baml
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.baml
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.g.cs
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\Pretreatment.g.cs
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.g.cs
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.g.cs
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.g.cs
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.g.cs
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.g.cs
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\App.g.cs
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition_MarkupCompile.cache
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.g.resources
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.Properties.Resources.resources
+E:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csproj.GenerateResource.Cache
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csprojResolveAssemblyReference.cache
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.baml
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.baml
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.baml
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.baml
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.baml
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.baml
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.g.cs
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.g.cs
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.g.cs
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.g.cs
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.g.cs
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.g.cs
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\App.g.cs
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition_MarkupCompile.cache
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.g.resources
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.Properties.Resources.resources
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csproj.GenerateResource.Cache
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.pdb
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Users\Bone\Documents\Visual Studio 2015\Projects\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.pdb
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csprojResolveAssemblyReference.cache
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.baml
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.baml
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.baml
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.baml
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.baml
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.baml
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.g.cs
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.g.cs
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.g.cs
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.g.cs
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.g.cs
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.g.cs
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\App.g.cs
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition_MarkupCompile.cache
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.g.resources
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.Properties.Resources.resources
+D:\Documents\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\骨頭交接\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+D:\Documents\Visual Studio 2015\Projects\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+D:\Documents\Visual Studio 2015\Projects\骨頭交接\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+C:\MO\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe.config
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.exe
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.pdb
+C:\MO\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.exe
+C:\MO\MotionRecognition\MotionRecognition\bin\x64\Debug\MotionRecognition.pdb
+C:\MO\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.dll
+C:\MO\MotionRecognition\MotionRecognition\bin\x64\Debug\Microsoft.Kinect.xml
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csprojResolveAssemblyReference.cache
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.baml
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.baml
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.baml
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.baml
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.baml
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.baml
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\IdentifyAction.g.cs
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\RealTimeIdentifyAction.g.cs
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\MainWindow.g.cs
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingClass.g.cs
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\RecordingWindows.g.cs
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\Replay.g.cs
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\App.g.cs
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition_MarkupCompile.cache
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.g.resources
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.Properties.Resources.resources
+C:\MO\MotionRecognition\MotionRecognition\obj\x64\Debug\MotionRecognition.csproj.GenerateResource.Cache

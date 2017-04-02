@@ -1,0 +1,24 @@
+﻿<Window x:Class="MotionRecognition.Replay"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Replay" Height="400" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="1" Grid.Column="0" Content="動作類別↓" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Label Grid.Row="1" Grid.Column="1" Content="動作編號↓" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Label Grid.Row="1" Grid.Column="2" Name="LB" Content="動作顯示↓" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <ListBox Name="ClassListBox" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" Height="300" VerticalAlignment="Center" Width="100"/>
+        <ListBox Name="NumMotionListBox" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" Height="300" VerticalAlignment="Center" Width="100"/>
+        <Canvas Name="BodyCanvas" Grid.Row="2" Grid.Column="2" Width="384" Height="318" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Button Grid.Row="0" Grid.Column="0" Content="返回" Click="Button_Click" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
